@@ -1,4 +1,6 @@
-# Better Scomb
+# BetterScomb
+![License](https://img.shields.io/github/license/yanorei32/better-scomb.svg?style=for-the-badge&color=blue)
+![Top Language](https://img.shields.io/github/languages/top/yanorei32/better-scomb.svg?style=for-the-badge)
 
 ## What is this
 This project was made to improve scomb.shibaura-it.ac.jp sites.
